@@ -44,10 +44,5 @@ This Python script uses face recognition to track attendance and logs it into a 
 6. **Keyboard Commands:**
    - Press `q` to quit the program.
 
-## Example
 
-![Example](example.gif)
-
-
----
 
